@@ -1,4 +1,11 @@
-### Hi there 👋
+### ¡Hola! Hello! こんいちわ！
+ - 👾 **Who I am**: A 27 year old software developer that loves everything computer related.
+ - 🤗 **What I do**: General software development and Reverse Engineering
+ - 🌍 **Where I am**: Alicante, Spain
+ - 🏢 **Where I work**: [Teralco Group](http://teralco.com) as a Senior Developer mainly doing FullStack
+ - 🔭 **What I am working on**:
+   - Reverse engineering and porting of [Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/) to Linux
+   - Reverse engineering EVE Online - Apocrypha and writting a custom server implementation for it: [EVESharp](http://github.com/Almamu/EVESharp)
 
 <!--
 **Almamu/Almamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
