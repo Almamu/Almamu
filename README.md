@@ -7,6 +7,10 @@
    - Reverse engineering and porting of [Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/) to Linux
    - Reverse engineering EVE Online - Apocrypha and writting a custom server implementation for it: [EVESharp](http://github.com/Almamu/EVESharp)
 
+### Contact me
+**Telegram**: [@Almamu](https://t.me/Almamu)
+**LinkedIn**: [Alexis Maiquez](https://www.linkedin.com/in/almamu/)
+
 <!--
 **Almamu/Almamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
