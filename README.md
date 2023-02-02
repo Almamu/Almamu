@@ -4,8 +4,9 @@
  - 🌍 **Where I am**: Alicante, Spain
  - 🏢 **Where I work**: [Teralco Group](http://teralco.com) as a Senior Developer mainly doing FullStack
  - 🔭 **What I am working on**:
-   - Reverse engineering and porting of [Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/) to Linux
+   - Reverse engineering and porting of [Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/) to Linux: [linux-wallpaperengine](https://github.com/Almamu/linux-wallpaperengine)
    - Reverse engineering EVE Online - Apocrypha and writting a custom server implementation for it: [EVESharp](http://github.com/Almamu/EVESharp)
+   - Reverse engineering EVE Online - Crucible and writting a custom server implementation for it: [EVEmu](https://github.com/EvEmu-Project/evemu_Crucible)
 
 ### Contact me
 **Telegram**: [@Almamu](https://t.me/Almamu)
