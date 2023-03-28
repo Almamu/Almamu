@@ -1,5 +1,5 @@
 ### ¡Hola! Hello! こんいちわ！
- - 👾 **Who I am**: A 27 year old software developer that loves everything computer related.
+ - 👾 **Who I am**: A 28 year old software developer that loves everything computer related.
  - 🤗 **What I do**: General software development and Reverse Engineering
  - 🌍 **Where I am**: Alicante, Spain
  - 🏢 **Where I work**: [Teralco Group](http://teralco.com) as a Senior Developer mainly doing FullStack
@@ -11,6 +11,9 @@
 ### Contact me
 **Telegram**: [@Almamu](https://t.me/Almamu)
 **LinkedIn**: [Alexis Maiquez](https://www.linkedin.com/in/almamu/)
+
+### Disclaimer
+The opinions expressed are solely my own and do not express the views or opinions of my employer
 
 <!--
 **Almamu/Almamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
