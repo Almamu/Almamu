@@ -1,4 +1,4 @@
-### ¡Hola! Hello! こんいちわ！
+### ¡Hola! Hello! こんにちは！
  - 👾 **Who I am**: A 30 year old software developer that loves everything computer related.
  - 🤗 **What I do**: Software development and Reverse Engineering
  - 🌍 **Where I am**: Alicante, Spain
