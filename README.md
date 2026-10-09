@@ -1,14 +1,15 @@
 ### ¡Hola! Hello! こんにちは！
- - 👾 **Who I am**: A 30 year old software developer that loves everything computer related.
+ - 👾 **Who I am**: A 31 year old software developer that loves everything computer related.
  - 🤗 **What I do**: Software development and Reverse Engineering
  - 🌍 **Where I am**: Alicante, Spain
- - 🏢 **Where I work**: [CONVOTIS Iberia](https://www.convotis.com/es) as a FullStack Senior Developer
+ - 🏢 **Where I work**: [CONVOTIS Iberia](https://www.convotis.com/es) as a FullStack Engineer
  - 🔭 **What I am working on**:
    - Reverse engineering and porting of [Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/) to Linux: [linux-wallpaperengine](https://github.com/Almamu/linux-wallpaperengine)
    - Rewriting MangaSekaiProject in [Expo (React Native)](https://github.com/Almamu/MangaSekaiProject-Frontend/tree/expo-rewrite) and [Laravel](https://github.com/Almamu/MangaSekaiProject-Backend)
    - Reverse engineering EVE Online - Apocrypha and writting a custom server implementation for it: [EVESharp](http://github.com/Almamu/EVESharp)
    - Reverse engineering EVE Online - Crucible and writting a custom server implementation for it: [EVEmu](https://github.com/EvEmu-Project/evemu_Crucible)
    - Maintaining [Farmacias de Guardia Alicante](https://farmacia-de-guardia-alicante.es/) on the Web and soon on Android/iOS
+   - Decompiling Crash Bandicoot XS (Xylophone Saxophone)/The Huge Adventure
 
 ### Contact me
 - **Telegram**: [@Almamu](https://t.me/Almamu)
